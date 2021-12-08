@@ -18,6 +18,7 @@ from discord.ext import commands    # Bot class and utils
 ############################### HELPER FUNCTIONS ###############################
 ################################################################################
 
+
 # log_msg - fancy print
 #   @msg   : string to print
 #   @level : log level from {'debug', 'info', 'warning', 'error'}
